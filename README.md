@@ -139,6 +139,6 @@ Possible enhancements for this project:
 
 ## Author
 
-Preetham Banoth
+Shreyas Talla
 
 GitHub: https://github.com/your-username
